@@ -1,0 +1,10 @@
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\bin\Debug\Test Leap Motion C.exe.config
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\bin\Debug\Test Leap Motion C.exe
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\bin\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\obj\Debug\Test Leap Motion C.csprojResolveAssemblyReference.cache
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\obj\Debug\Test_Leap_Motion_C.Form1.resources
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\obj\Debug\Test_Leap_Motion_C.Properties.Resources.resources
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\obj\Debug\Test Leap Motion C.csproj.GenerateResource.Cache
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\obj\Debug\Test Leap Motion C.exe
+C:\Users\X901\Desktop\Test Leap Motion C\Backup\obj\Debug\Test Leap Motion C.pdb

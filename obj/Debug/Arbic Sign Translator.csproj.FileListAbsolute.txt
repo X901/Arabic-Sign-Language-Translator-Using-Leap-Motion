@@ -1,0 +1,22 @@
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe.config
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\bin\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Arabic_Sign_Translator.AboutBox1.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Arabic_Sign_Translator.Form1.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Arabic_Sign_Translator.Form2.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Properties.Resources.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Arbic Sign Translator.csproj.GenerateResource.Cache
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test Leap Motion C.exe
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Arbic Sign Translator.csprojResolveAssemblyReference.cache
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\bin\Debug\Test Leap Motion C.exe.config
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Test Leap Motion C.exe
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\bin\Debug\Test Leap Motion C.exe
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\bin\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Arbic Sign Translator.csprojResolveAssemblyReference.cache
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Arabic_Sign_Translator.AboutBox1.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Arabic_Sign_Translator.Form1.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Arabic_Sign_Translator.Form2.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Test_Leap_Motion_C.Properties.Resources.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Arbic Sign Translator\obj\Debug\Arbic Sign Translator.csproj.GenerateResource.Cache

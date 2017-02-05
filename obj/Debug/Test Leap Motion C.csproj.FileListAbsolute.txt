@@ -1,0 +1,28 @@
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\bin\Debug\Test Leap Motion C.pdb
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\obj\Debug\ResolveAssemblyReference.cache
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Form1.resources
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Properties.Resources.resources
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\obj\Debug\Test Leap Motion C.csproj.GenerateResource.Cache
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\obj\Debug\Test Leap Motion C.pdb
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe
+D:\MyProg\Test Leap Motion C\Test Leap Motion C\obj\Debug\Test Leap Motion C.exe
+C:\Users\X901\Desktop\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe.config
+C:\Users\X901\Desktop\Test Leap Motion C\obj\Debug\Test Leap Motion C.exe
+C:\Users\X901\Desktop\Test Leap Motion C\obj\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Desktop\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe
+C:\Users\X901\Desktop\Test Leap Motion C\bin\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Desktop\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Form1.resources
+C:\Users\X901\Desktop\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Properties.Resources.resources
+C:\Users\X901\Desktop\Test Leap Motion C\obj\Debug\Test Leap Motion C.csproj.GenerateResource.Cache
+C:\Users\X901\Desktop\Test Leap Motion C\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe.config
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test Leap Motion C.exe
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\bin\Debug\Test Leap Motion C.exe
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\bin\Debug\Test Leap Motion C.pdb
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Form1.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Properties.Resources.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test Leap Motion C.csproj.GenerateResource.Cache
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.Form2.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test_Leap_Motion_C.AboutBox1.resources
+C:\Users\X901\Documents\Visual Studio 2013\Projects\Test Leap Motion C\obj\Debug\Test Leap Motion C.csprojResolveAssemblyReference.cache
